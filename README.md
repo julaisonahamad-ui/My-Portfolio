@@ -1,1 +1,68 @@
-# My-Portfolio
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>My Portfolio</title>
+  
+  <style>
+    body {
+      background-color: #f4f4f4;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 30px;
+    }
+    
+    h1 {
+      color: Orange;
+      font-size: 28px;
+    }
+    
+    p {
+      color: Red;
+      font-size: 18px;
+      line-height: 1.6;
+    }
+    
+    img {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      object-fit: cover;
+    }
+  </style>
+</head>
+
+<body>
+  
+  <h1>My Portfolio</h1>
+  
+  <img src="profile.jpg" alt="My Profile Picture">
+  
+  <h1>Hello, I'm Julaison G ahamad!</h1>
+  <p>
+    I am an Information Technology student.
+    I love programming and web development.
+  </p>
+  
+  <h1>About Me</h1>
+  <p>
+    I enjoy learning new technologies
+    and creating simple websites.
+  </p>
+  
+  <h1>My Skills</h1>
+  <p>HTML | CSS | JavaScript | C++</p>
+  
+  <h1>My Projects</h1>
+  <p>Personal Portfolio Website</p>
+  
+  <h1>Contact Me</h1>
+  <p>Email: ahamadjulaison@gmail.com</p>
+  <h>Personal info</h>
+  <p>Ahamad G. Julaison</p>
+  <p>Kasalamatan village</p>
+  <p>Male</p>
+  
+</body>
+
+</htmle>
